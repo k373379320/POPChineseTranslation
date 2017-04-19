@@ -1,6 +1,3 @@
-# POP部分翻译
-
-
 #一丶原文翻译
 ```
 #import <Foundation/NSObject.h>
